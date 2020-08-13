@@ -1,4 +1,11 @@
 # ikuze-phantom-components
-UI component library wip
+UI component library w.i.p.
+a.k.a. "sticker sheet" 
 
-Made with React and sparkles.
+Made with sparkles.
+
+- colour contrast on focus 
+- typography
+- CSS
+- animation
+- pixel art
